@@ -11,7 +11,7 @@ Welcome to *Peace by Chicken Joe*! This website celebrates the relaxed, adventur
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```sh
-   git clone https://github.com/blohn-ohn/chicken-joe-site.git
+   git clone https://github.com/0xU53R/chicken-joe-site.git
    ```
 2. Navigate to the project folder:
    ```sh
