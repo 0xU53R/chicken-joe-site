@@ -26,7 +26,7 @@ Welcome to *Peace by Chicken Joe*! This website celebrates the relaxed, adventur
 
 ## 🌍 Live Version
 Visit the website online at:  
-[https://blohn-ohn.github.io/chicken-joe-site/](https://blohn-ohn.github.io/chicken-joe-site/)
+[https://0xU53R.github.io/chicken-joe-site/](https://0xU53R.github.io/chicken-joe-site/)
 
 ## 🔧 Technologies Used
 - **HTML, CSS, JavaScript** – Core structure and styling.
